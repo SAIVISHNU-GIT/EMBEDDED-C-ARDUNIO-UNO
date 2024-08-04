@@ -3,9 +3,14 @@ Braking system is an essential part of any automobile. It is used to stop at des
 
 
 The main motivation of this project are: 
+
 I. To develop an Intelligent Braking System for Automobiles 
+
 II. To find the braking distance at various vehicle speeds as well as minimum distance before collision 
+
 III. To instantly rescue accident victims by sending a message to the rescue team with a MEMS accelerometer GSM and GPS location. 
+
 IV. Designing and implementing the notification mechanism for GSM 
+
 V. Generating power to EV vehicle through Automatic breaking system 
 
